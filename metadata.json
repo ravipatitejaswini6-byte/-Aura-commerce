@@ -1,0 +1,6 @@
+{
+  "name": "Aura Commerce - Modern E-Commerce Platform",
+  "description": "A complete, modern, and fully responsive e-commerce platform with product catalog, search & filters, shopping cart, checkout, simulated payments, reviews, and authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
